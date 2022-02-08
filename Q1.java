@@ -29,5 +29,4 @@ class Calculator{
 	void minus(int n) {
 		this.v -= n;
 	}
-	
 }
