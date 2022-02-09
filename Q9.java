@@ -7,11 +7,10 @@ public class Q9 {
 
 	public static void main(String[] args)throws IOException {
 		FileWriter fw = new FileWriter("sample.txt");
-        System.out.print("¹®Àå ÀÔ·Â:");
+        System.out.print("Â¹Â®Ã€Ã¥ Ã€Ã”Â·Ã‚:");
         Scanner sc = new Scanner(System.in);
         String line = sc.nextLine();
         fw.write(String.format("%s\n", line));
         fw.close();
 	}
-
 }
