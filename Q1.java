@@ -8,7 +8,6 @@ public class Q1 {
 		c.minus(7);
 		System.out.println(c.getValue());
 	}
-
 }
 
 class Calculator{
