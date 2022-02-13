@@ -6,7 +6,6 @@ public class Q3 {
 		Calculator2 c = new Calculator2();
 		System.out.println(c.isOdd(3));
 	}
-
 }
 
 class Calculator2{
