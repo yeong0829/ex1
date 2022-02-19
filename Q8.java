@@ -15,5 +15,4 @@ public class Q8 {
 	     System.out.println(line);  
 //	     br.close();
 	}
-
 }
