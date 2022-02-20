@@ -9,7 +9,6 @@ public class Q7 {
         c.add(new Bronze());
         System.out.println(c.getValue()); 
 	}
-
 }
 
 class MineralCalculator {
