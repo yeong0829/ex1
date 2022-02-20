@@ -7,7 +7,6 @@ public class Q6 {
 	     c.add(3);  
 	     System.out.println(c.getValue());
 	}
-
 }
 
 class Calculator4 {
