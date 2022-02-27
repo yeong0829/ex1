@@ -9,7 +9,6 @@ public class Q4 {
 		 int result = c.avg(n);
 		 System.out.println(result);
 	}
-
 }
 
 
