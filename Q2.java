@@ -1,7 +1,6 @@
 package test;
 
 public class Q2 {
-
 	public static void main(String[] args) {
 		MaxLimitValclator c = new MaxLimitValclator();
 		c.add(50);
