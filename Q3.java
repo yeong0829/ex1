@@ -1,7 +1,6 @@
 package test;
 
 public class Q3 {
-
 	public static void main(String[] args) {
 		Calculator2 c = new Calculator2();
 		System.out.println(c.isOdd(3));
